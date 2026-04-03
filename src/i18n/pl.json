@@ -1,0 +1,17 @@
+{
+  "full_name": "Imię i nazwisko",
+  "full_name_placeholder": "Wpisz swoje imię i nazwisko",
+  "mail_placeholder": "john.doe@email.com",
+  "message": "Coś jeszcze?",
+  "message_placeholder": "Wpisz tutaj swoją wiadomość...",
+  "submit": "Prześlij",
+  "read_more": "Czytaj więcej",
+  "page_not_found": "Nie znaleziono strony",
+  "working_mail": "Adres e-mail służbowy",
+  "anything_else": "Coś jeszcze?",
+  "contact_message_placeholder": "Wpisz tutaj swoją wiadomość...",
+  "page_not_found_content": "Strona, której szukasz, mogła zostać usunięta, przemianowana lub jest chwilowo niedostępna.",
+  "back_to_home": "Powrót do strony głównej",
+
+  "announcement": "<span class='text-center block'>📌 Zaufaj zespołowi Brainfy <a class='underline' href='https://github.com/zeon-studio/astroplate' target='_blank' rel='noopener'>Skontaktuj się z nami ☎️</a></span>"
+}

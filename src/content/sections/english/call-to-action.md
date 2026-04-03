@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
+title: "Ready to execute your next automation project with Brainfy?"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+description: "Contact us to talk about your project and find the best automation and control system solutions"
 button:
   enable: true
-  label: "Fork Deploy and Edit Online 🚀"
-  link: "https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate/tree/multilingual"
+  label: "Create a project with Brainfy 🚀"
+  link: "https://brainfy.eu/pl/contact"
 ---

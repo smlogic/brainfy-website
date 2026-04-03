@@ -1,31 +1,51 @@
 ---
-title: "Privacy"
+title: "Privacy Policy"
 meta_title: ""
 description: "this is meta description"
 image: ""
 draft: false
 ---
 
-#### Responsibility of Contributors
+#### Privacy and Cookies Policy
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Privacy and Cookies Policy
+This Privacy Policy sets out the rules for the processing and protection of personal data provided by Users in connection with their use of the brainfy.eu website.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+###### Personal Data Administrator
+The administrator of your personal data collected through the website is the owner of the brainfy.eu website.
+In matters related to the processing and protection of personal data, you can contact us directly via e-mail at: info@brainfy.pl.
 
-#### Gathering of Personal Information
+###### Purposes and legal bases for data processing
+Your personal data (e.g., first name, last name, e-mail address, phone number) are processed solely for the following purposes:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Handling inquiries from the contact form: based on Article 6(1)(b) of the GDPR (actions necessary to take steps prior to entering into a contract) and Article 6(1)(f) of the GDPR (legitimate interest of the Administrator).
 
-#### Protection of Personal- Information
+Performance of B2B services and contracts: including the design of Industrial Automation (I&C) and BMS systems, as well as maintenance services (Article 6(1)(b) of the GDPR).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+Analytical and statistical: in order to improve the functionality of the website (Article 6(1)(f) of the GDPR).
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+###### What data do we collect?
+While using the website, we may collect the following information:
 
-#### Privacy Policy Changes
+Data provided voluntarily in contact forms (name, e-mail, company name, phone number).
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+Data collected automatically (IP address, browser type, time spent on the site) using cookies.
+
+###### Data recipients
+We ensure the highest level of confidentiality. Your data is not sold to third parties. For the proper functioning of the website, data may be entrusted to trusted entities supporting our operations:
+
+Hosting service providers where the website is maintained.
+
+Providers of analytical tools (e.g., Google Analytics).
+
+###### Data retention period
+We store personal data for as long as necessary to achieve the purposes for which it was collected:
+
+Data from the contact form: until the communication with the User is completed or an effective objection is raised.
+
+Billing data: for the period required by generally applicable laws.
+
+###### User Rights
+In accordance with the provisions of the GDPR, you have the right to:
+
+Access your data and receive a copy of it.

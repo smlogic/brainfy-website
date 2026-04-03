@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Astroplate",
-    "base_url": "https://astroplate-multilang.netlify.app",
+    "title": "Brainfy",
+    "base_url": "https://brainfy.eu",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -9,7 +9,7 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_text": "Brainfy"
   },
 
   "settings": {
@@ -32,11 +32,11 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Designed And Developed by [Brainfy](https://brainfy.eu)"
   },
 
   "navigation_button": {
-    "enable": true,
+    "enable": false,
     "label": "Github",
     "link": "https://github.com/zeon-studio/astroplate/tree/multilingual"
   },
@@ -53,8 +53,8 @@
   },
 
   "metadata": {
-    "meta_author": "zeon.studio",
+    "meta_author": "Brainfy",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_description": "Projektowanie i integracja systemów Automatyki Przemysłowej (AKPiA), PLC i BMS. Predykcyjne utrzymanie ruchu, bezpieczny zdalny serwis i audyty maszyn."
   }
 }

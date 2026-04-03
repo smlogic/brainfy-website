@@ -45,7 +45,13 @@ const {
     <div class="container">
       <div class="row">
         <div class="mx-auto md:col-10 lg:col-6">
-          <form action={contact_form_action} method="POST">
+          
+          <form action="https://api.web3forms.com/submit" method="POST">
+            
+            <input type="hidden" name="access_key" value="3c3c8023-b407-4047-803a-ffd54dc32796">
+
+            <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+
             <div class="mb-6">
               <label for="name" class="form-label">
                 {full_name}
@@ -57,8 +63,10 @@ const {
                 class="form-input"
                 placeholder="John Doe"
                 type="text"
+                required
               />
             </div>
+            
             <div class="mb-6">
               <label for="email" class="form-label">
                 {working_mail}
@@ -70,8 +78,10 @@ const {
                 class="form-input"
                 placeholder="john.doe@email.com"
                 type="email"
+                required
               />
             </div>
+            
             <div class="mb-6">
               <label for="message" class="form-label">
                 {anything_else}
@@ -82,10 +92,27 @@ const {
                 name="message"
                 class="form-input"
                 placeholder={contact_message_placeholder}
-                rows="8"></textarea>
+                rows="8"
+                required
+              ></textarea>
             </div>
+
+            <div class="mb-6 flex items-start">
+              <input 
+                type="checkbox" 
+                id="privacy" 
+                name="privacy_consent" 
+                class="mt-1 mr-2 cursor-pointer" 
+                required 
+              />
+              <label for="privacy" class="text-sm text-text dark:text-darkmode-text cursor-pointer">
+                Akceptuję <a href="/polityka-prywatnosci" class="text-primary underline">Politykę Prywatności</a> i wyrażam zgodę na przetwarzanie danych.
+              </label>
+            </div>
+
             <button type="submit" class="btn btn-primary">{submit}</button>
           </form>
+
         </div>
       </div>
     </div>

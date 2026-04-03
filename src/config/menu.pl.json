@@ -1,0 +1,21 @@
+{
+  "main": [
+    { "name": "Strona główna", "url": "/" },
+    { "name": "O nas", "url": "/about" },
+    { "name": "Projekty", "url": "/projects" },
+    {
+      "name": "Strony",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        { "name": "Kontakt", "url": "/contact" },
+        { "name": "Blog", "url": "/blog" },
+        { "name": "Strona 404", "url": "/404" }
+      ]
+    }
+  ],
+  "footer": [
+    { "name": "Projekty", "url": "/projects" },
+    { "name": "Polityka prywatności", "url": "/privacy-policy" }
+  ]
+}
