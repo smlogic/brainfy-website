@@ -48,7 +48,7 @@
 - 📝 Blog
 - 📝 Blog Single
 - 🚫 Custom 404
-- 💡 Elements
+- 💡 Projects
 - 📄 Privacy Policy
 - 🏷️ Tags
 - 🏷️ Tag Single
