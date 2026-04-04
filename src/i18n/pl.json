@@ -13,5 +13,5 @@
   "page_not_found_content": "Strona, której szukasz, mogła zostać usunięta, przemianowana lub jest chwilowo niedostępna.",
   "back_to_home": "Powrót do strony głównej",
 
-  "announcement": "<span class='text-center block'>📌 Zaufaj zespołowi Brainfy <a class='underline' href='https://github.com/zeon-studio/astroplate' target='_blank' rel='noopener'>Skontaktuj się z nami ☎️</a></span>"
+  "announcement": "<span class='text-center block'>📌 Zaufaj zespołowi Brainfy <a class='underline' href='https://brainfy.eu/pl/contact/' target='_blank' rel='noopener'>Skontaktuj się z nami ☎️</a></span>"
 }
